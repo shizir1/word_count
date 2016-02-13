@@ -1,0 +1,11 @@
+Simple word-count program outputs on standard that output the N most frequently
+occurring words in one-or-more files FILE1... which are not in the file STOP_WORDS.
+
+Usage: 		./word-count N STOP_WORDS FILE1...
+Example: 	./word-count 5 inputs/stop.txt inputs/input1.txt inputs/input2.txt
+		
+Example Output:	Word #1: the (count: 10)
+	              Word #2: a (count: 7)
+		            Word #3: big (count: 3)
+		            Word #4: data (count: 3)
+		            Word #5: algorithm (count: 2)
