@@ -21,7 +21,6 @@ char *strdup(const char *s);
 /*  Copied some of the code in getWordNumber(), getWord(), read() from:
     http://stackoverflow.com/questions/26349528/reading-word-by-word-from-text-file-in-c
     Modified them to meet the project requirements.
-    TA said he will accept it for this time.
  */
 
 /*
